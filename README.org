@@ -1,0 +1,10 @@
+* cl-random-forest
+
+Random forest in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/masatoi/cl-random-forest.git   |
+| commit  | b4e5ec5  |
+| systems | cl-random-forest |
+|---------+-------------------------------------------|
+
