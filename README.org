@@ -4,7 +4,7 @@ Random forest in Common Lisp
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/masatoi/cl-random-forest.git   |
-| commit  | b4e5ec5  |
+| commit  | 10cc1f6  |
 | systems | cl-random-forest |
 |---------+-------------------------------------------|
 
